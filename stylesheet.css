@@ -1,6 +1,11 @@
 .website{
     background-color: plum;
 }
+
+#myHeader {
+    background-color: powderblue;
+    text-align: center
+}
 body{
     background-color: powderblue;
 }
