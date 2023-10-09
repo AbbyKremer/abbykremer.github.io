@@ -4,7 +4,11 @@
 
 #myHeader {
     background-color: powderblue;
-    text-align: center
+    text-align: center;
+}
+
+a:hover{
+    color: blue;
 }
 body{
     background-color: powderblue;
