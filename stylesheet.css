@@ -1,4 +1,4 @@
-.website{
+.section{
     background-color: plum;
 }
 
@@ -32,7 +32,7 @@ p{
 }
 div{
     width: 300px;
-    border: 15px solid green;
+    border: 15px plum;
     padding: 50px;
     margin: 20px;
 }
