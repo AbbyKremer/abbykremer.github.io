@@ -2,18 +2,25 @@
     background-color: plum;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  height: 50%
+.centerPicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 200px;
 }
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
 
 #myHeader {
-    background-color: powderblue;
+    background-color: plum;
     text-align: center;
+    color: cornflowerblue;
 }
 a:link{
     color:blue;
